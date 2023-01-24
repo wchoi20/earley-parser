@@ -31,7 +31,8 @@ The goal of the assignment was to create an Earley parser using the Earley recog
 
   ./{parse.py | parse2.py} [.gr file] [.sen file]
   
-If the parse exists, you will get the parse of the provided sentence with the weight.
+If the parse exists, the parse and the weight will be printed.
+If the parse does not exist, NONE will be printed.
 
 ### An example run for the parser would be the following:
 
