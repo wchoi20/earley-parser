@@ -30,6 +30,8 @@ The goal of the assignment was to create an Earley parser using the Earley recog
 ### To run the parser,
 
   ./{parse.py | parse2.py} [.gr file] [.sen file]
+  
+If the parse exists, you will get the parse of the provided sentence with the weight.
 
 ### An example run for the parser would be the following:
 
